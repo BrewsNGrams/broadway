@@ -1,0 +1,29 @@
+html {
+  font-family: Helvetica, sans-serif;
+  color: black;
+  text-align: center;
+}
+
+header {
+  color: white;
+  font-size: 18px;
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+.splitter {
+  color: white;
+  background-image: url(../images/the-flatiron-building.png);
+}
+
+.mail {
+  color: black;
+}
