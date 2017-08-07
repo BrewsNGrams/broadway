@@ -8,15 +8,38 @@ header {
   color: white;
   font-size: 18px;
   background-image: url(../images/the-flatiron-building.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+ul {
+  list-style-type: none;
+  padding:0;
+  border:0;
+}
+
+li {
+  padding: 0 5px 0 5px;
 }
 
 a {
   color: white;
 }
 
-h1 {
-  font-size: 70px;
-  font-weight: bold;
+footer {
+  background-color: dimgrey;
+  color: white;
+  text-align: left;
+  padding: 0;
+}
+
+span {
+  font-size: 11px;
 }
 
 .splitter {
@@ -26,4 +49,8 @@ h1 {
 
 .mail {
   color: black;
+}
+
+.bottom_menu {
+  display: inline-flex;
 }
