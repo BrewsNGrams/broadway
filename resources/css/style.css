@@ -33,9 +33,13 @@ a {
 
 footer {
   background-color: dimgrey;
+  background-size: contain;
   color: white;
   text-align: left;
   padding: 0;
+  border:0;
+  margin: 0;
+
 }
 
 span {
