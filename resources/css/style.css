@@ -70,12 +70,11 @@ button {
   font-size: 14px;
 }
 
-<<<<<<< HEAD
 .mail {
   color: black;
-=======
+}
+
 .bottom_menu {
   display: inline-flex;
   padding: 0 10px 0 10px;
->>>>>>> 3516b7f9daeb4c3ce69915f9ee4bf4e4d2578a9a
 }
