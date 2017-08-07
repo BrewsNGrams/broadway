@@ -33,10 +33,12 @@ ul {
 
 li {
   padding: 5px;
+
 }
 
 a {
   color: white;
+  padding: 0 5px 0 5px;
 }
 
 footer {
@@ -44,12 +46,14 @@ footer {
   background-size: contain;
   color: white;
   text-align: left;
-  padding: 3px 0 3px 0;
+  padding: 2px;
 }
 
 nav {
   display: inline-block;
+  padding: 0 5px 0 5px;
 }
+
 span {
   font-size: 11px;
 }
@@ -71,9 +75,4 @@ button {
 
 .mail {
   color: black;
-}
-
-.bottom_menu {
-  display: inline-flex;
-  padding: 0 10px 0 10px;
 }
